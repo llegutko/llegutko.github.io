@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="252" height="100" viewBox="0 0 252 100">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="252" height="100" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-71 -64)">
+      <g id="Logo" transform="translate(71 70)">
+        <text id="CHLEB" transform="translate(0 43)" font-size="40" font-family="PlayfairDisplay-Regular, Playfair Display"><tspan x="0" y="0">CHLEB</tspan></text>
+        <text id="_" data-name="&amp;" transform="translate(81 83)" font-size="40" font-family="PlayfairDisplay-Regular, Playfair Display"><tspan x="0" y="0">&amp;</tspan></text>
+        <text id="MORE" transform="translate(123 83)" font-size="40" font-family="PlayfairDisplay-Regular, Playfair Display"><tspan x="0" y="0">MORE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
