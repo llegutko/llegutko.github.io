@@ -126,35 +126,33 @@ p{
     width: 320px;
     text-align: left;
 }
-.table{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-collapse: collapse;
+.table-container{
     margin-top: 10px;
     margin-bottom: 0px;
     margin-left: 20px;
     margin-right: 20px;
+}
+.table{
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
     text-align:left;
+    
 }
 tr{
     border-bottom: 1px solid black;
 }
-th:nth-child(1),
-td:nth-child(1) {
-    width: 220px; 
-}
+
 
 th:nth-child(2),
 td:nth-child(2) {
-  width: 60px; 
+  width: 20%; 
   text-align: center;
 }
 
 th:nth-child(3),
 td:nth-child(3) {
-  width: 60px;
+  width: 20%;
   text-align: right;
 }
 
